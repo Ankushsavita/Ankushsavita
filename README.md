@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ankush Savita</h1>
-<h3 align="center">I am a Web Developer proficient in HTML, CSS, JavaScript, Bootstrap, ReactJs, Material UI, Java, Object-Oriented Programming, Data Structures and Algorithms, SQL, and Spring Boot.</h3>
+<h1 align="center">Hi 👋, I'm Ankush Savita 👩🏾‍💻</h1>
+<img src="https://www.canva.com/design/DAFsAR8WhaE/Zu_D_dIP96z_oc4QRZioYA/edit?utm_content=DAFsAR8WhaE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="banner that says Ankush Savita - Web Developer">
+<h3 align="center">I am a Web Developer, proficient in HTML, CSS, JavaScript, Bootstrap, ReactJs, Material UI, Java, Object-Oriented Programming, Data Structures and Algorithms, SQL, and Spring Boot.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshtupkar&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshtupkar" /> </p>
 
