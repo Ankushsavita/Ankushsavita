@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankush Savita</h1>
-<h3 align="center">I am Java Backend Developer proficient in Object-Oriented Programming, Data Structures and Algorithms, SQL, and Spring Boot.</h3>
+<h3 align="center">I am Web Developer proficient in HTML, CSS, JavaScript, Bootstrap, ReactJs, Material UI, Java, Object-Oriented Programming, Data Structures and Algorithms, SQL, and Spring Boot.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshtupkar&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshtupkar" /> </p>
 
