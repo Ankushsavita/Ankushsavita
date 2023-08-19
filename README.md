@@ -47,12 +47,6 @@
   <img alt="VSCode" height="80" src="https://tse1.mm.bing.net/th?id=OIP.sSB0GRcY7Qiq9TG2T9x8uwAAAA&pid=Api&P=0&h=220">
     <img alt="IntelliJ" height="80" src="https://tse4.mm.bing.net/th?id=OIP.UzuXKpdNcdm6WR3dgLplpgHaFG&pid=Api&P=0&h=220">
 </p>
-  <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-
-
-
-
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushikeshtupkar&show_icons=true&locale=en&layout=compact" alt="rushikeshtupkar" /></p>
 
