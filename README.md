@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rushikesh-tupkar-825904242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh-tupkar-825904242" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rushikeshtupkar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rushikeshtupkar1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rushikeshtupkar438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rushikeshtupkar438" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ankushsavita/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankush savita" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ankushsavita2001?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ankush savita" height="30" width="40" /></a>
+<a href="https://leetcode.com/ankushsavita2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankush savita" height="30" width="40" /></a>
 </p>
 
 
