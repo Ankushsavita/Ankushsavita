@@ -31,9 +31,9 @@
   <img alt="CSS" height="80" src="https://2.bp.blogspot.com/-u7D-CIDmuzE/XHSaUZ74evI/AAAAAAAASEw/tDY0LYG-Ra4rMlSUi9BLioDgT5WT5MUOwCLcBGAs/s1600/CSS%2B3.png">
   <img alt="JS" height="80" src="https://tse3.mm.bing.net/th?id=OIP.u_Qa4LpkYnXQlmiIP4kMnwHaEo&pid=Api&P=0&h=220">
   <img alt="Bootstrap" height="80" src="https://tse1.mm.bing.net/th?id=OIP.ayNMNMZCeZz5XcdiaaPRtgHaHa&pid=Api&P=0&h=220">
-  <img alt="Reactjs" height="80" src="https://tse3.mm.bing.net/th?id=OIP.VsvOr2Q2d_Ixr1aUDFGmIQHaHC&pid=Api&P=0&h=220">
-  <img alt="material ui" height="80" src="https://tse3.mm.bing.net/th?id=OIP.mORoWuR07reOuNwUkcA8SgAAAA&pid=Api&P=0&h=220">
-   <img alt="Git Logo" height="80" width="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrNey0NJUuet7oxT37OiO795Ldq9G_wpGEaw&usqp=CAU">
+  <img alt="Reactjs" height="80" src="https://clipground.com/images/react-logo-png-9.png">
+  <img alt="material ui" height="80" src="https://tse1.mm.bing.net/th?id=OIP.rpiHSO8j5Ng9dzobkcvAkQHaHa&pid=Api&P=0&h=220">
+   <img alt="Git Logo" height="80" width="120" src="https://tse4.mm.bing.net/th?id=OIP.0xw7uJGDLpEBSF7h889jbAHaHa&pid=Api&P=0&h=220">
   <img alt="github" height="80" src="https://tse3.mm.bing.net/th?id=OIP.ckeUFk-yid0vfWnd56w7wAHaHa&pid=Api&P=0&h=220">
   <img alt="Bootstrap" height="80" src="https://tse1.mm.bing.net/th?id=OIP.ayNMNMZCeZz5XcdiaaPRtgHaHa&pid=Api&P=0&h=220">
  <img alt="Postman" height="80" src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj">
