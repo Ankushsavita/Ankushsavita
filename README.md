@@ -35,6 +35,7 @@
   <img alt="material ui" height="80" src="https://tse1.mm.bing.net/th?id=OIP.rpiHSO8j5Ng9dzobkcvAkQHaHa&pid=Api&P=0&h=220">
    <img alt="Git Logo" height="80" width="120" src="https://tse4.mm.bing.net/th?id=OIP.0xw7uJGDLpEBSF7h889jbAHaHa&pid=Api&P=0&h=220">
   <img alt="github" height="80" src="https://tse3.mm.bing.net/th?id=OIP.ckeUFk-yid0vfWnd56w7wAHaHa&pid=Api&P=0&h=220">
+</p>
   <img alt="Bootstrap" height="80" src="https://tse1.mm.bing.net/th?id=OIP.ayNMNMZCeZz5XcdiaaPRtgHaHa&pid=Api&P=0&h=220">
  <img alt="Postman" height="80" src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj">
   <img alt="MySQL" height="80" src="https://static.techspot.com/images2/downloads/topdownload/2020/01/2020-01-28-ts3_thumbs-c3e.png">
