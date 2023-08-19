@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ankush Savita</h1>
-<h3 align="center">I am Web Developer proficient in HTML, CSS, JavaScript, Bootstrap, ReactJs, Material UI, Java, Object-Oriented Programming, Data Structures and Algorithms, SQL, and Spring Boot.</h3>
+<h3 align="center">I am a Web Developer proficient in HTML, CSS, JavaScript, Bootstrap, ReactJs, Material UI, Java, Object-Oriented Programming, Data Structures and Algorithms, SQL, and Spring Boot.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshtupkar&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshtupkar" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot, Spring Security**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RushikeshTupkar](https://github.com/RushikeshTupkar)
+- 👨‍💻 All of my projects are available at [[(https://github.com/Ankushsavita)]]
 
 - 💬 Ask me about **Java, SQL, Spring Boot**
 
