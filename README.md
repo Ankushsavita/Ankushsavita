@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshtupkar&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshtupkar" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot, Spring Security**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [[(https://github.com/Ankushsavita)]]
+- 👨‍💻 All of my projects are available at (https://github.com/Ankushsavita)
 
-- 💬 Ask me about **Java, SQL, Spring Boot**
+- 💬 Ask me about **HTML, CSS, JavsScript, Bootstrap, Java, OOPS, SQL, Spring Boot**
 
-- 📫 How to reach me **rushikeshtupkar438@gmail.com**
+- 📫 How to reach me **ankushsavita2001@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1tzk5s_yX6u0UD5gyydE6D-qSkVjLV53guIDwZt7eZuk/edit](https://drive.google.com/file/d/1-beUwC2pDBoEjEBHdC4i54oenhT5Xbec/view?usp=drivesdk)
 
